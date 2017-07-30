@@ -1,4 +1,4 @@
-<?php
+
 
 	$Lbc_Public = new LocalBitcoins_Public_API();
 
