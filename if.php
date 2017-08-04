@@ -15,6 +15,4 @@ else {
     <input name="field2" type="text" />
     <input type="submit" name="submit" value="Save Data">
 </form>');
-}
-
-?>
+}?>
